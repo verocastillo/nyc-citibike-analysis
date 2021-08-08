@@ -17,6 +17,7 @@ I used a lot of data for this analysis (welcome to the world of Big Data!). Be p
 
 ## Download links:
 Link to Tableau profile: https://public.tableau.com/app/profile/veronica.castillo
+
 Download links for .twbx file: 
 - Tableau: https://public.tableau.com/app/profile/veronica.castillo/viz/NYCCitibikeAnalysis2020/Story1
-- Google Drive: 
+- Google Drive: https://drive.google.com/file/d/1ckgD5JgTagOY_DpgO6ZfRWcszMp0VS7D/view?usp=sharing
